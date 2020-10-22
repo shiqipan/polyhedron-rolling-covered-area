@@ -1,5 +1,5 @@
 # polyhedron-rolling-path
-This project investigate the areas cover by rolling of convex polyhedron in a plane. Specifically, it visualized the region that can be covered with polyhedron's base within certain number of edge rotations.
+This project investigate the areas cover by rolling of convex polyhedron in a plane. Specifically, it visualized the region that can be covered by polyhedron's base within certain number of edge rotations.
 
 Here are a few notes:
 1. This file intends to work for all convex polyhedron.
